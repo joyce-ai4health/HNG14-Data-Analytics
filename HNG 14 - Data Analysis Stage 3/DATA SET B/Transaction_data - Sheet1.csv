@@ -1,0 +1,11 @@
+Txn_ID,Txn_Date,Customer_ID,Customer_Name,Tier,Branch_ID,Branch_Name,State,Product_ID,Product_Name,Product_Type,Txn_Type,Channel,Amount (₦),Balance_After (₦)
+TXN-10041,2024-01-08 8:42:00,C0001,Emeka Yakubu,Platinum,B02,Ikeja,Lagos,P007,Debit Card,Card,POS Purchase,POS,"45,000.00","1,820,450.00"
+TXN-10042,2024-01-08 9:15:00,C0003,Funke Nwosu,Silver,B02,Ikeja,Lagos,P002,Savings Account,Account,Deposit,Branch,"120,000.00","534,210.50"
+TXN-10043,2024-01-08 9:55:00,C0004,Fatima Ibrahim,Standard,B04,Abuja Central,Abuja,P009,Mobile Banking,Digital,Bill Payment,Mobile App,"18,500.00","62,100.00"
+TXN-10044,2024-01-08 10:30:00,C0001,Emeka Yakubu,Platinum,B02,Ikeja,Lagos,P001,Current Account,Account,Transfer,Internet Banking,"500,000.00","1,320,450.00"
+TXN-10045,2024-01-08 11:05:00,C0005,Gbenga Ibrahim,Platinum,B01,Lagos Island,Lagos,P004,Personal Loan,Loan,Loan Repayment,Branch,"250,000.00",0
+TXN-10046,2024-01-08 11:40:00,C0002,Amina Okonkwo,Platinum,B03,Victoria Island,Lagos,P008,Credit Card,Card,POS Purchase,POS,"87,200.00","2,145,800.00"
+TXN-10047,2024-01-08 13:00:00,C0003,Funke Nwosu,Silver,B02,Ikeja,Lagos,P007,Debit Card,Card,ATM Withdrawal,ATM,"20,000.00","514,210.50"
+TXN-10048,2024-01-08 14:20:00,C0006,Halima Danladi,Standard,B06,Kano Central,Kano,P002,Savings Account,Account,Withdrawal,USSD,"15,000.00","48,700.00"
+TXN-10049,2024-01-08 15:10:00,C0007,Rotimi Adeleke,Gold,B07,Port Harcourt,Rivers,P003,Fixed Deposit,Savings,Deposit,Branch,"500,000.00","1,500,000.00"
+TXN-10050,2024-01-08 16:00:00,C0002,Amina Okonkwo,Platinum,B03,Victoria Island,Lagos,P010,Internet Banking,Digital,Transfer,Internet Banking,"1,200,000.00","945,800.00"
